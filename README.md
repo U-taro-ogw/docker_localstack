@@ -11,7 +11,7 @@ aws cliが使えること
 docker-compose up -d
 ```
 
-http://localhost:4572/
+http://localhost:4572/  
 を開いてxmlが出てたら起動成功
 
 
@@ -35,5 +35,5 @@ $ aws --endpoint-url=http://localhost:4572 --profile localstack s3 mb s3://test-
 
 - 作成したbucketの確認
 
-http://localhost:4572/test-bucket
+http://localhost:4572/test-bucket  
 を開いてxmlが出てたら起動成功
