@@ -36,4 +36,4 @@ $ aws --endpoint-url=http://localhost:4572 --profile localstack s3 mb s3://test-
 - 作成したbucketの確認
 
 http://localhost:4572/test-bucket  
-を開いてxmlが出てたら起動成功
+を開いてxmlが出てたら起動成功。
